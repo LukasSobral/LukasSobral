@@ -70,7 +70,6 @@ I care about **clarity, performance, and meaningful problem-solving**.
 
 ## 🌍 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/lucassobraldemorais/)
-- 📫 Email: lucas.sobral@email.com
-
+- [LinkedIn](https://www.linkedin.com/in/lucas-sobrall/)
+- 📫 lucassobral301@gmail.com
 ---
