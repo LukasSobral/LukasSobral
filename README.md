@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;" />
   <h1>Lucas Sobral</h1>
   <h3>Backend Developer · API Architect · AI Integrator</h3>
   <p>Crafting intelligent and scalable systems with Python, FastAPI, and YOLO.</p>
