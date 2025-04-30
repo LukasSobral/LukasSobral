@@ -1,53 +1,77 @@
-# 👋 Hello, I'm Lucas Sobral
-
-🎯 I'm a Software Engineer specialized in **Python**, with strong expertise in **FastAPI**, **Django**, and **Computer Vision (YOLOv8)**. I build backend systems and AI-powered solutions that automate workflows, reduce manual effort, and generate real business impact.
-
----
-
-## 🚀 About Me
-
-- 🔧 Backend-focused developer passionate about **clean architecture**, **automations** and **API-first systems**.
-- 🌎 Working towards joining international teams with high technical standards.
-- 🤖 Experienced in **AI integrations**, including **language models (LLMs)** and **vision-based systems**.
-- 📍 Based in **Três Lagoas, Brazil**.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;" />
+  <h1>Lucas Sobral</h1>
+  <h3>Backend Developer · API Architect · AI Integrator</h3>
+  <p>Crafting intelligent and scalable systems with Python, FastAPI, and YOLO.</p>
+</div>
 
 ---
 
-## 🧠 Key Technologies
+## 👋 About Me
 
-```python
-Languages: Python, JavaScript (React / React Native)
-Frameworks: FastAPI, Django, Django Rest Framework
-Databases: PostgreSQL, SQLite, MySQL
-DevOps: Docker, GitHub Actions, Inno Setup (for packaging Python apps)
-Computer Vision: YOLOv8, OpenCV, segmentation models
-Visualization: Leaflet.js, Power BI, Matplotlib
+I'm a software engineer focused on backend development and practical AI integration. My work blends clean architecture, automation, and real-world impact.
 
-💼 Featured Projects
-🛰️ Forestry Residue Detector: Built a computer vision platform to detect wood waste using satellite imagery and YOLOv8 segmentation.
+I specialize in building systems that:
+- Detect forestry residues using computer vision (YOLOv8)
+- Optimize logistics with GPS and shapefile-based APIs
+- Automate tasks using LLMs and intelligent assistants
 
-📍 Geospatial API for Logistics: Developed a backend that calculates distance between vehicles and rural areas using GPS and shapefiles.
-
-🧠 AI Assistant: Integrated LLMs to automate operational tasks and enhance team productivity.
-
-Check out the pinned repositories below for more!
-
-📊 GitHub Stats
-
-📫 Let's connect!
-
-💼 LinkedIn
-
-🧑‍💻 Portfolio (soon)
-
-🌱 Always learning, always building.
-
+I care about **clarity, performance, and meaningful problem-solving**.
 
 ---
 
-### 🔍 O que você pode fazer agora:
-- Personalizar o texto “About Me” com algo mais pessoal se quiser.
-- Confirmar se quer manter esse tema `radical` no card de estatísticas ou trocar por outro estilo.
-- Adicionar links para seus projetos assim que eles estiverem prontos no GitHub.
+## 🧰 Tech Stack
 
-Quer que eu gere a imagem do card ou já faça ajustes no texto?
+<div align="center">
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python · JavaScript · SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>FastAPI · Django · React Native</td>
+  </tr>
+  <tr>
+    <td><strong>AI / CV</strong></td>
+    <td>YOLOv8 · OpenCV · TensorFlow</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps</strong></td>
+    <td>Docker · GitHub Actions · Inno Setup</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL · Power BI · Pandas</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🛰️ **Residue Detector** | A computer vision platform to detect forestry waste using satellite imagery + YOLOv8 segmentation. |
+| 🧭 **GeoLog API** | A geospatial API to calculate real-time distance between vehicles and rural assets using GPS and shapefiles. |
+| 🤖 **LLM Assistant** | An internal AI assistant using large language models to streamline team operations. |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LukasSobral&show_icons=true&theme=tokyonight" />
+</div>
+
+---
+
+## 🌍 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/lucassobraldemorais/)
+- 📫 Email: lucas.sobral@email.com
+
+---
